@@ -1,0 +1,20 @@
+<html>
+    <title>пингвины</title>
+    <body>
+        <header></header>
+        <main>
+            <h1>
+            Пингвины    
+            </h1>
+            <h2>
+                пингвины едят траву
+            </h2>
+            
+            <p>
+             пингвины едят траву синего зеленого и красного цвета.
+            </p>
+            <img src="https://admnvrsk.ru/upload/iblock/677/677598a778749edab716a4f515ba0980.jpg">
+        </main>
+        <footer></footer>
+    </body>
+</html>
